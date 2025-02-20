@@ -1,0 +1,6 @@
+ npx json-server .\db.json
+
+ npx json-server .\db.json -p 4000
+
+to run the application
+npm run dev

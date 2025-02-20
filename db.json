@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "f0bc",
+      "username": "sayan_paul",
+      "email": "sayanpaul.connect@gmail.com",
+      "dept": "BAT",
+      "password": "123123123"
+    },
+    {
+      "id": "169b",
+      "username": "Navaprettam",
+      "email": "Navaprettam@itcinfotech.com",
+      "dept": "BAT",
+      "password": "123123"
+    },
+    {
+      "id": "3e26",
+      "username": "sayan_paul",
+      "email": "sayan@gmail.com",
+      "dept": "BAT",
+      "password": "Sayan@101"
+    },
+    {
+      "id": "3eb4",
+      "username": "Sid",
+      "email": "sid@gmail.com",
+      "dept": "BAT",
+      "password": "123123"
+    },
+    {
+      "id": "e085",
+      "username": "shreya_roy",
+      "email": "shreya@gmail.com",
+      "dept": "AMD",
+      "password": "Shreya@101"
+    },
+    {
+      "id": "29b8",
+      "username": "ranbir_kapoor",
+      "email": "ranbir@gmail.com",
+      "dept": "Content",
+      "password": "Ranbir@101"
+    }
+  ],
+  "news": [
+    {
+      "category": "Chemistry",
+      "title": "Heat Destroys All Order. Except for in This One Special Case.",
+      "content": "Heat is supposed to ruin anything it touches. But physicists have shown that an idealized form of magnetism is heatproof.",
+      "source": "Quanta Magazine",
+      "image": "images/image1.jpg",
+      "id": "312d"
+    },
+    {
+      "category": "Physics",
+      "title": "What's inside a Black Hole?",
+      "content": "Shocking details about Black Hole by scientists.",
+      "source": "Quanta Magazine",
+      "image": "images/image2.jpg",
+      "id": "cd09"
+    },
+    {
+      "id": "0771",
+      "category": "Physics",
+      "title": "Do We Need a New Theory of Gravity?",
+      "content": "Our current understanding of gravity needs to continue to evolve.",
+      "source": "Quanta Magazine",
+      "image": "images/image3.jpg"
+    },
+    {
+      "id": "f585",
+      "category": "Biology",
+      "title": "Human Evolution",
+      "content": "We are the Wanderers from the very first dawn.",
+      "source": "Quanta Magazine",
+      "image": "images/image4.jpg"
+    },
+    {
+      "id": "a48c",
+      "category": "Philosophy",
+      "title": "Optimistic Nihilism",
+      "content": "All there is Nothing. ",
+      "source": "Quanta Magazine",
+      "image": "image"
+    }
+  ]
+}
